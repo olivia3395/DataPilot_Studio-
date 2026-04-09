@@ -136,6 +136,17 @@ Prompt   →  "Train a regression baseline and explain the main predictive signa
 
 <br/>
 
+
+<br/>
+
+<div align="center">
+  <img width="900" alt="DataPilot Studio dashboard" src="./images/screenshot.png" />
+</div>
+
+<br/>
+
+
+
 ## Security & Outputs
 
 - The execution sandbox **blocks unsafe imports** — `os`, `sys`, `subprocess`, and network access are all restricted
@@ -143,6 +154,7 @@ Prompt   →  "Train a regression baseline and explain the main predictive signa
 - No data leaves the app unless you explicitly configure an LLM API key
 
 <br/>
+
 
 
 

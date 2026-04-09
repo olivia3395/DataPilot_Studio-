@@ -140,7 +140,7 @@ Prompt   →  "Train a regression baseline and explain the main predictive signa
 <br/>
 
 <div align="center">
-  <img width="900" alt="DataPilot Studio dashboard" src="./images/screenshot.png" />
+  <img width="900" alt="DataPilot Studio dashboard" src="./datapilot.png" />
 </div>
 
 <br/>
